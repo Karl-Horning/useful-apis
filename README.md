@@ -12,3 +12,4 @@ A list of fun and useful APIs
 | [The Star Wars API (SWAPI)](https://swapi.dev) | Entertainment | False | True | False | [swapi.dev](https://swapi.dev) |
 | [Transport for London Unified API](https://api.tfl.gov.uk) | Transport | True | True | False | [api.tfl.gov.uk](https://api.tfl.gov.uk) |
 | [Twitter Developer Platform](https://developer.twitter.com/en) | Social Media | True | True | False | [developer.twitter.com/en](https://developer.twitter.com/en) |
+| [WiZ Pro API](https://docs.pro.wizconnected.com) | Smart Devices | True | True | False | [docs.pro.wizconnected.com](https://docs.pro.wizconnected.com) |
